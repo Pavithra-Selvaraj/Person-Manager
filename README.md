@@ -12,32 +12,24 @@ The Person Manager App is a simple Flutter application that allows users to mana
 ## Installation
 
 1. Clone the repository
-<pre>
 ```bash
 git clone https://github.com/Pavithra-Selvaraj/Person-Manager.git
 ```
-</pre>
 
 2. Navigate to the project directory
-<pre>
 ```bash
 cd person-manager
 ```
-</pre>
 
 3. Install the dependencies
-<pre>
 ```bash
 flutter pub get
 ```
-</pre>
 
 4. Run the app
-<pre>
 ```bash
 flutter run
 ```
-</pre>
 
 ## Dependencies
 
